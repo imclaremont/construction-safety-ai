@@ -1,2 +1,2 @@
-# construction-safety-ai
-RAG 및 벡터 DB를 활용한 AI 기반 건설 안전 도우미
+# 안전 벡터맨 프로젝트
+https://drive.google.com/file/d/17OBi0FDJCNofq5qDnWOXtFIkkesrISYi/view?usp=sharing (데모 영상)
